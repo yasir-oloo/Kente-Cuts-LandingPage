@@ -101,4 +101,4 @@ A `moodboard/` folder is included for optional inspiration screenshots.
 
 ---
 
-© 2026 – Built for Thrive Africa Frontend Development Essential Course
+© Yasir 2026 – Built for Thrive Africa Frontend Development Essential Course
